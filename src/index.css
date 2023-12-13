@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.card {
+  display: block;
+  margin: 0 auto;
+  color: black;
+  height: 80px;
+}
+.al {
+  width: 80%;
+  margin: 0 auto;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  background-image: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?w=996&t=st=1702460589~exp=1702461189~hmac=bb8ba919c9d2a764903cfdac9874a48730f14060bed77ff35f4636e79349e2b1");
+  background-size: cover;
+  background-position: center;
+}
